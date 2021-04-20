@@ -1,0 +1,2 @@
+# stickers
+stickers and stickers
