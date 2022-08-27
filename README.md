@@ -18,6 +18,10 @@ Currently 7-day shipping supported regions are..
 - vanilla-logo-typescript
 - vanilla-logo-github
 - vanilla-logo-cpp
+- vanilla-logo-holy-c
+- vanilla-logo-brain-fxxk
+- vanilla-logo-cmm
+- vanilla-logo-lolcode
 - vanilla-logo-mac-finder
 - Whale is not a browser
 - I use Internet explorer
